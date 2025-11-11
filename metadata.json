@@ -1,0 +1,5 @@
+{
+  "name": "Instagram Sentiment Analyzer",
+  "description": "An application that performs a comprehensive sentiment and emotional tone analysis of Instagram page data using Gemini. Paste your Instagram data to receive a detailed breakdown of sentiment, emotions, engagement correlation, and more.",
+  "requestFramePermissions": []
+}
